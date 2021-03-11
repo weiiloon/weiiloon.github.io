@@ -1,0 +1,320 @@
+body{
+        font-family:Bahnschrift;
+}
+.logonav{
+    width:400px;
+}
+
+.nav1{
+    font-size:23px;
+    margin-top:2%;
+    margin-left:2%;
+
+}
+
+.w-100{
+    width:100%!important;
+}
+
+.theonly{
+    text-align:center;
+    font-size:50px;
+    font-family:Bahnschrift;
+    font-weight:700;
+}
+
+.banner{
+    margin-top:-5%;
+}
+
+
+.top-left {
+  position: absolute;
+    top: 29%;
+    left: 10%;
+    font-size: 80px;
+    font-weight:900;
+        margin-top:3%;
+}
+
+.bottom-left{
+        position: absolute;
+    top: 45%;
+    left: 10%;
+    font-size: 40px;
+    margin-top:6%;
+}
+
+.btn-primary{
+    margin:10px;
+    padding:20px;
+    font-size:30px;
+    border-radius: 0px;
+       position:absolute;
+        top: 70%;
+    left: 9.5%;
+
+}
+
+.btn-default{
+      margin:10px;
+    padding:20px;
+    font-size:30px;
+    border-radius: 0px;
+       position:absolute;
+        top: 70%;
+    left:28%;
+
+
+
+}
+
+.col-lg-4{
+
+  background-color: white;
+  width: 325px;
+border-radius:5px;
+  padding: 10px 40px 10px 40px;
+  margin: 20px;
+  height:500px;
+}
+
+body{
+    background-color:#fafafa;
+}
+
+.center{
+    text-align: center;
+}
+
+.left1{
+    text-align:left;
+
+}
+
+.btn-success{
+    background-color:#1492ff;
+    border-color: #1492ff;
+    
+}
+
+.btn-success:hover{
+    background-color:#132063;
+    border-color:#132063;
+}
+
+
+
+.btn1{
+       background-color:white;
+    border-color:white;
+    color:black;
+    font-weight:bold;
+}
+
+.btn1:hover{
+    background-color:#f0f0f0;
+  font-weight:bold;
+}
+
+.site-footer
+{
+  background-color:#26272b;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+  box-shadow: 0px 0px 60px 0px rgba(0,0,0,.2);
+}
+.site-footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+.site-footer hr.small
+{
+  margin:20px 0
+}
+.site-footer h6
+{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+.site-footer a
+{
+  color:#737373;
+}
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color:#737373
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links.inline li
+{
+  display:inline-block
+}
+.site-footer .social-icons
+{
+  text-align:right
+}
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+  line-height:40px;
+  margin-left:6px;
+  margin-right:0;
+  border-radius:100%;
+  background-color:#33353d
+}
+.copyright-text
+{
+  margin:0
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+.social-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.social-icons li
+{
+  display:inline-block;
+  margin-bottom:4px
+}
+.social-icons li.title
+{
+  margin-right:15px;
+  text-transform:uppercase;
+  color:#96a2b2;
+  font-weight:700;
+  font-size:13px
+}
+.social-icons a{
+  background-color:#eceeef;
+  color:#818a91;
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:44px;
+  height:44px;
+  text-align:center;
+  margin-right:8px;
+  border-radius:100%;
+  -webkit-transition:all .2s linear;
+  -o-transition:all .2s linear;
+  transition:all .2s linear
+}
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+  color:#fff;
+  background-color:#29aafe
+}
+.social-icons.size-sm a
+{
+  line-height:34px;
+  height:34px;
+  width:34px;
+  font-size:14px
+}
+.social-icons a.facebook:hover
+{
+  background-color:#3b5998
+}
+.social-icons a.twitter:hover
+{
+  background-color:#00aced
+}
+.social-icons a.linkedin:hover
+{
+  background-color:#007bb6
+}
+.social-icons a.dribbble:hover
+{
+  background-color:#ea4c89
+}
+@media (max-width:767px)
+{
+  .social-icons li.title
+  {
+    display:block;
+    margin-right:0;
+    font-weight:600
+  }
+}
+
+.site-footer{
+    margin-top:3%;
+}
+
+.why{
+    background-color:#303133;
+}
+
+.col-lg-3{
+    color:white;
+    margin:50px;
+
+}
+
+.navbar{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.smalllogo{
+    width:150px;
+}
+
+.why2{
+    width:130px;
+}
+
+.col-lg-6{
+    width:33%!important;
+  
+}
+
+.solid{
+    border-style:solid;
+    padding:0 50px 0 50px;
+    width:1000px;
+}
